@@ -1,5 +1,8 @@
 # Name Vault App (Tria React Assignment)
 
+[Live Demo](https://tria-name-vault.vercel.app)
+
+
 Short description: A Vite + React + TypeScript app for a list of contacts.
 
 ## Run locally
