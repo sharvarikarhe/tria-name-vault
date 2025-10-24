@@ -14,7 +14,4 @@ npm run preview
 - Vite, React, TypeScript, TailwindCSS
 - React Router, React Query
 
-## Notes
-- No environment variables needed (or: describe env vars if any)
-- Routes: / (Index) and fallback 404
 
